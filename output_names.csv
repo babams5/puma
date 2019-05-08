@@ -1,0 +1,145 @@
+group,variable,value
+Automation,Automotive,2
+Automation,Chemicals,4
+Automation,Consumer Markets,2
+Automation,Energy,5
+Automation,Financial Services,18
+Automation,Healthcare,16
+Automation,Industrial Manufacturing,2
+Automation,Lifescience,8
+Automation,Retail,12
+Automation,Technology,13
+Automation,Telecommunications and media,37
+Automation,Transport and logistics,9
+Customer Demand,Automotive,3
+Customer Demand,Chemicals,11
+Customer Demand,Consumer Markets,6
+Customer Demand,Energy,7
+Customer Demand,Financial Services,18
+Customer Demand,Healthcare,21
+Customer Demand,Industrial Manufacturing,3
+Customer Demand,Lifescience,10
+Customer Demand,Retail,22
+Customer Demand,Technology,9
+Customer Demand,Telecommunications and media,34
+Customer Demand,Transport and logistics,10
+Data explosion,Automotive,1
+Data explosion,Chemicals,2
+Data explosion,Consumer Markets,1
+Data explosion,Energy,3
+Data explosion,Financial Services,14
+Data explosion,Healthcare,12
+Data explosion,Industrial Manufacturing,1
+Data explosion,Lifescience,7
+Data explosion,Retail,9
+Data explosion,Technology,8
+Data explosion,Telecommunications and media,28
+Data explosion,Transport and logistics,6
+Decentralization,Automotive,1
+Decentralization,Chemicals,2
+Decentralization,Consumer Markets,1
+Decentralization,Energy,4
+Decentralization,Financial Services,20
+Decentralization,Healthcare,11
+Decentralization,Industrial Manufacturing,1
+Decentralization,Lifescience,4
+Decentralization,Retail,8
+Decentralization,Technology,6
+Decentralization,Telecommunications and media,32
+Decentralization,Transport and logistics,6
+Demographic changes,Automotive,1
+Demographic changes,Chemicals,3
+Demographic changes,Consumer Markets,1
+Demographic changes,Energy,3
+Demographic changes,Financial Services,15
+Demographic changes,Healthcare,27
+Demographic changes,Industrial Manufacturing,1
+Demographic changes,Lifescience,7
+Demographic changes,Retail,6
+Demographic changes,Technology,3
+Demographic changes,Telecommunications and media,51
+Demographic changes,Transport and logistics,5
+Disruptive business models and technologies,Automotive,3
+Disruptive business models and technologies,Chemicals,4
+Disruptive business models and technologies,Consumer Markets,2
+Disruptive business models and technologies,Energy,6
+Disruptive business models and technologies,Financial Services,29
+Disruptive business models and technologies,Healthcare,22
+Disruptive business models and technologies,Industrial Manufacturing,2
+Disruptive business models and technologies,Lifescience,10
+Disruptive business models and technologies,Retail,18
+Disruptive business models and technologies,Technology,14
+Disruptive business models and technologies,Telecommunications and media,60
+Disruptive business models and technologies,Transport and logistics,12
+Sector convergence,Automotive,1
+Sector convergence,Chemicals,2
+Sector convergence,Consumer Markets,1
+Sector convergence,Energy,4
+Sector convergence,Financial Services,13
+Sector convergence,Healthcare,12
+Sector convergence,Industrial Manufacturing,1
+Sector convergence,Lifescience,6
+Sector convergence,Retail,8
+Sector convergence,Technology,4
+Sector convergence,Telecommunications and media,23
+Sector convergence,Transport and logistics,5
+Sustainability,Automotive,2
+Sustainability,Chemicals,12
+Sustainability,Consumer Markets,3
+Sustainability,Energy,38
+Sustainability,Financial Services,25
+Sustainability,Healthcare,28
+Sustainability,Industrial Manufacturing,3
+Sustainability,Lifescience,9
+Sustainability,Retail,14
+Sustainability,Technology,5
+Sustainability,Telecommunications and media,62
+Sustainability,Transport and logistics,12
+Tensions and international conflicts,Automotive,2
+Tensions and international conflicts,Chemicals,6
+Tensions and international conflicts,Consumer Markets,2
+Tensions and international conflicts,Energy,7
+Tensions and international conflicts,Financial Services,37
+Tensions and international conflicts,Healthcare,23
+Tensions and international conflicts,Industrial Manufacturing,2
+Tensions and international conflicts,Lifescience,8
+Tensions and international conflicts,Retail,14
+Tensions and international conflicts,Technology,5
+Tensions and international conflicts,Telecommunications and media,76
+Tensions and international conflicts,Transport and logistics,10
+Time to market,Automotive,1
+Time to market,Chemicals,2
+Time to market,Consumer Markets,1
+Time to market,Energy,1
+Time to market,Financial Services,4
+Time to market,Healthcare,6
+Time to market,Industrial Manufacturing,1
+Time to market,Lifescience,4
+Time to market,Retail,4
+Time to market,Technology,2
+Time to market,Telecommunications and media,14
+Time to market,Transport and logistics,3
+Virtualization,Automotive,0
+Virtualization,Chemicals,1
+Virtualization,Consumer Markets,0
+Virtualization,Energy,1
+Virtualization,Financial Services,4
+Virtualization,Healthcare,4
+Virtualization,Industrial Manufacturing,1
+Virtualization,Lifescience,2
+Virtualization,Retail,4
+Virtualization,Technology,5
+Virtualization,Telecommunications and media,12
+Virtualization,Transport and logistics,3
+Vulnerability,Automotive,1
+Vulnerability,Chemicals,4
+Vulnerability,Consumer Markets,1
+Vulnerability,Energy,8
+Vulnerability,Financial Services,46
+Vulnerability,Healthcare,27
+Vulnerability,Industrial Manufacturing,1
+Vulnerability,Lifescience,7
+Vulnerability,Retail,12
+Vulnerability,Technology,5
+Vulnerability,Telecommunications and media,100
+Vulnerability,Transport and logistics,10
