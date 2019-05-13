@@ -1,0 +1,145 @@
+variable,group,value
+Automation,Automotive,8
+Customer Demand,Automotive,10
+Data explosion,Automotive,3
+Decentralization,Automotive,2
+Demographic changes,Automotive,1
+Disruptive business models and technologies,Automotive,10
+Sector convergence,Automotive,2
+Sustainability,Automotive,8
+Tensions and international conflicts,Automotive,8
+Time to market,Automotive,1
+Virtualization,Automotive,0
+Vulnerability,Automotive,4
+Automation,Chemicals,3
+Customer Demand,Chemicals,10
+Data explosion,Chemicals,1
+Decentralization,Chemicals,1
+Demographic changes,Chemicals,2
+Disruptive business models and technologies,Chemicals,3
+Sector convergence,Chemicals,1
+Sustainability,Chemicals,10
+Tensions and international conflicts,Chemicals,5
+Time to market,Chemicals,1
+Virtualization,Chemicals,0
+Vulnerability,Chemicals,3
+Automation,Consumer Markets,2
+Customer Demand,Consumer Markets,10
+Data explosion,Consumer Markets,1
+Decentralization,Consumer Markets,1
+Demographic changes,Consumer Markets,1
+Disruptive business models and technologies,Consumer Markets,3
+Sector convergence,Consumer Markets,1
+Sustainability,Consumer Markets,4
+Tensions and international conflicts,Consumer Markets,4
+Time to market,Consumer Markets,1
+Virtualization,Consumer Markets,0
+Vulnerability,Consumer Markets,2
+Automation,Energy,1
+Customer Demand,Energy,1
+Data explosion,Energy,1
+Decentralization,Energy,1
+Demographic changes,Energy,1
+Disruptive business models and technologies,Energy,1
+Sector convergence,Energy,1
+Sustainability,Energy,10
+Tensions and international conflicts,Energy,2
+Time to market,Energy,0
+Virtualization,Energy,0
+Vulnerability,Energy,2
+Automation,Financial Services,3
+Customer Demand,Financial Services,3
+Data explosion,Financial Services,2
+Decentralization,Financial Services,4
+Demographic changes,Financial Services,3
+Disruptive business models and technologies,Financial Services,6
+Sector convergence,Financial Services,2
+Sustainability,Financial Services,5
+Tensions and international conflicts,Financial Services,8
+Time to market,Financial Services,0
+Virtualization,Financial Services,0
+Vulnerability,Financial Services,10
+Automation,Healthcare,6
+Customer Demand,Healthcare,8
+Data explosion,Healthcare,4
+Decentralization,Healthcare,3
+Demographic changes,Healthcare,10
+Disruptive business models and technologies,Healthcare,8
+Sector convergence,Healthcare,4
+Sustainability,Healthcare,9
+Tensions and international conflicts,Healthcare,7
+Time to market,Healthcare,1
+Virtualization,Healthcare,0
+Vulnerability,Healthcare,9
+Automation,Industrial Manufacturing,8
+Customer Demand,Industrial Manufacturing,10
+Data explosion,Industrial Manufacturing,1
+Decentralization,Industrial Manufacturing,1
+Demographic changes,Industrial Manufacturing,1
+Disruptive business models and technologies,Industrial Manufacturing,7
+Sector convergence,Industrial Manufacturing,2
+Sustainability,Industrial Manufacturing,10
+Tensions and international conflicts,Industrial Manufacturing,6
+Time to market,Industrial Manufacturing,1
+Virtualization,Industrial Manufacturing,0
+Vulnerability,Industrial Manufacturing,4
+Automation,Lifescience,8
+Customer Demand,Lifescience,9
+Data explosion,Lifescience,6
+Decentralization,Lifescience,3
+Demographic changes,Lifescience,6
+Disruptive business models and technologies,Lifescience,10
+Sector convergence,Lifescience,5
+Sustainability,Lifescience,8
+Tensions and international conflicts,Lifescience,8
+Time to market,Lifescience,3
+Virtualization,Lifescience,0
+Vulnerability,Lifescience,7
+Automation,Retail,5
+Customer Demand,Retail,10
+Data explosion,Retail,3
+Decentralization,Retail,2
+Demographic changes,Retail,1
+Disruptive business models and technologies,Retail,8
+Sector convergence,Retail,2
+Sustainability,Retail,6
+Tensions and international conflicts,Retail,6
+Time to market,Retail,0
+Virtualization,Retail,0
+Vulnerability,Retail,5
+Automation,Technology,9
+Customer Demand,Technology,5
+Data explosion,Technology,5
+Decentralization,Technology,3
+Demographic changes,Technology,0
+Disruptive business models and technologies,Technology,10
+Sector convergence,Technology,1
+Sustainability,Technology,2
+Tensions and international conflicts,Technology,2
+Time to market,Technology,0
+Virtualization,Technology,2
+Vulnerability,Technology,3
+Automation,Telecommunications and media,3
+Customer Demand,Telecommunications and media,2
+Data explosion,Telecommunications and media,2
+Decentralization,Telecommunications and media,2
+Demographic changes,Telecommunications and media,4
+Disruptive business models and technologies,Telecommunications and media,6
+Sector convergence,Telecommunications and media,1
+Sustainability,Telecommunications and media,6
+Tensions and international conflicts,Telecommunications and media,7
+Time to market,Telecommunications and media,0
+Virtualization,Telecommunications and media,0
+Vulnerability,Telecommunications and media,10
+Automation,Transport and logistics,7
+Customer Demand,Transport and logistics,7
+Data explosion,Transport and logistics,4
+Decentralization,Transport and logistics,3
+Demographic changes,Transport and logistics,3
+Disruptive business models and technologies,Transport and logistics,10
+Sector convergence,Transport and logistics,2
+Sustainability,Transport and logistics,9
+Tensions and international conflicts,Transport and logistics,8
+Time to market,Transport and logistics,0
+Virtualization,Transport and logistics,0
+Vulnerability,Transport and logistics,8
