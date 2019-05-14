@@ -5,7 +5,7 @@ Time to market,Automotive,1
 Tensions and international conflicts,Automotive,8
 Sustainability,Automotive,8
 Sector convergence,Automotive,2
-Disruptive business models and technologies,Automotive,10
+Disruptive business models,Automotive,10
 Demographic changes,Automotive,1
 Decentralization,Automotive,2
 Data explosion,Automotive,3
@@ -17,7 +17,7 @@ Time to market,Chemicals,1
 Tensions and international conflicts,Chemicals,5
 Sustainability,Chemicals,10
 Sector convergence,Chemicals,1
-Disruptive business models and technologies,Chemicals,3
+Disruptive business models,Chemicals,3
 Demographic changes,Chemicals,2
 Decentralization,Chemicals,1
 Data explosion,Chemicals,1
@@ -29,7 +29,7 @@ Time to market,Consumer Markets,1
 Tensions and international conflicts,Consumer Markets,4
 Sustainability,Consumer Markets,4
 Sector convergence,Consumer Markets,1
-Disruptive business models and technologies,Consumer Markets,3
+Disruptive business models,Consumer Markets,3
 Demographic changes,Consumer Markets,1
 Decentralization,Consumer Markets,1
 Data explosion,Consumer Markets,1
@@ -41,7 +41,7 @@ Time to market,Energy,0
 Tensions and international conflicts,Energy,2
 Sustainability,Energy,10
 Sector convergence,Energy,1
-Disruptive business models and technologies,Energy,1
+Disruptive business models,Energy,1
 Demographic changes,Energy,1
 Decentralization,Energy,1
 Data explosion,Energy,1
@@ -53,7 +53,7 @@ Time to market,Financial Services,0
 Tensions and international conflicts,Financial Services,8
 Sustainability,Financial Services,5
 Sector convergence,Financial Services,2
-Disruptive business models and technologies,Financial Services,6
+Disruptive business models,Financial Services,6
 Demographic changes,Financial Services,3
 Decentralization,Financial Services,4
 Data explosion,Financial Services,2
@@ -65,7 +65,7 @@ Time to market,Healthcare,1
 Tensions and international conflicts,Healthcare,7
 Sustainability,Healthcare,9
 Sector convergence,Healthcare,4
-Disruptive business models and technologies,Healthcare,8
+Disruptive business models,Healthcare,8
 Demographic changes,Healthcare,10
 Decentralization,Healthcare,3
 Data explosion,Healthcare,4
@@ -77,7 +77,7 @@ Time to market,Industrial Manufacturing,1
 Tensions and international conflicts,Industrial Manufacturing,6
 Sustainability,Industrial Manufacturing,10
 Sector convergence,Industrial Manufacturing,2
-Disruptive business models and technologies,Industrial Manufacturing,7
+Disruptive business models,Industrial Manufacturing,7
 Demographic changes,Industrial Manufacturing,1
 Decentralization,Industrial Manufacturing,1
 Data explosion,Industrial Manufacturing,1
@@ -89,7 +89,7 @@ Time to market,Lifescience,3
 Tensions and international conflicts,Lifescience,8
 Sustainability,Lifescience,8
 Sector convergence,Lifescience,5
-Disruptive business models and technologies,Lifescience,10
+Disruptive business models,Lifescience,10
 Demographic changes,Lifescience,6
 Decentralization,Lifescience,3
 Data explosion,Lifescience,6
@@ -101,7 +101,7 @@ Time to market,Retail,0
 Tensions and international conflicts,Retail,6
 Sustainability,Retail,6
 Sector convergence,Retail,2
-Disruptive business models and technologies,Retail,8
+Disruptive business models,Retail,8
 Demographic changes,Retail,1
 Decentralization,Retail,2
 Data explosion,Retail,3
@@ -113,7 +113,7 @@ Time to market,Technology,0
 Tensions and international conflicts,Technology,2
 Sustainability,Technology,2
 Sector convergence,Technology,1
-Disruptive business models and technologies,Technology,10
+Disruptive business models,Technology,10
 Demographic changes,Technology,0
 Decentralization,Technology,3
 Data explosion,Technology,5
@@ -125,7 +125,7 @@ Time to market,Telecommunications and media,0
 Tensions and international conflicts,Telecommunications and media,7
 Sustainability,Telecommunications and media,6
 Sector convergence,Telecommunications and media,1
-Disruptive business models and technologies,Telecommunications and media,6
+Disruptive business models,Telecommunications and media,6
 Demographic changes,Telecommunications and media,4
 Decentralization,Telecommunications and media,2
 Data explosion,Telecommunications and media,2
@@ -137,7 +137,7 @@ Time to market,Transport and logistics,0
 Tensions and international conflicts,Transport and logistics,8
 Sustainability,Transport and logistics,9
 Sector convergence,Transport and logistics,2
-Disruptive business models and technologies,Transport and logistics,10
+Disruptive business models,Transport and logistics,10
 Demographic changes,Transport and logistics,3
 Decentralization,Transport and logistics,3
 Data explosion,Transport and logistics,4
