@@ -1,0 +1,145 @@
+variable,group,value,myid,hits
+Vulnerability,Automotive,4,1,4033
+Virtualization,Automotive,0,2,1337
+Time to market,Automotive,1,3,1671
+Tensions and international conflicts,Automotive,8,4,6534
+Sustainability,Automotive,8,5,6613
+Sector convergence,Automotive,2,6,2443
+Disruptive business models,Automotive,10,7,7510
+Demographic changes,Automotive,1,8,1833
+Decentralization,Automotive,2,9,2539
+Data explosion,Automotive,3,10,3511
+Customer Demand,Automotive,10,11,7784
+Automation,Automotive,8,12,6577
+Vulnerability,Chemicals,3,13,10395
+Virtualization,Chemicals,0,14,1894
+Time to market,Chemicals,1,15,4867
+Tensions and international conflicts,Chemicals,5,16,15344
+Sustainability,Chemicals,10,17,31739
+Sector convergence,Chemicals,1,18,5024
+Disruptive business models,Chemicals,3,19,12199
+Demographic changes,Chemicals,2,20,8014
+Decentralization,Chemicals,1,21,4480
+Data explosion,Chemicals,1,22,5328
+Customer Demand,Chemicals,10,23,30390
+Automation,Chemicals,3,24,9660
+Vulnerability,Consumer Markets,2,25,3924
+Virtualization,Consumer Markets,0,26,869
+Time to market,Consumer Markets,1,27,1733
+Tensions and international conflicts,Consumer Markets,4,28,6538
+Sustainability,Consumer Markets,4,29,7237
+Sector convergence,Consumer Markets,1,30,2508
+Disruptive business models,Consumer Markets,3,31,5690
+Demographic changes,Consumer Markets,1,32,2119
+Decentralization,Consumer Markets,1,33,2847
+Data explosion,Consumer Markets,1,34,2740
+Customer Demand,Consumer Markets,10,35,15431
+Automation,Consumer Markets,2,36,4365
+Vulnerability,Energy,2,37,22413
+Virtualization,Energy,0,38,2895
+Time to market,Energy,0,39,3104
+Tensions and international conflicts,Energy,2,40,18856
+Sustainability,Energy,10,41,104527
+Sector convergence,Energy,1,42,9994
+Disruptive business models,Energy,1,43,17190
+Demographic changes,Energy,1,44,9523
+Decentralization,Energy,1,45,9968
+Data explosion,Energy,1,46,8191
+Customer Demand,Energy,1,47,17905
+Automation,Energy,1,48,14106
+Vulnerability,Financial Services,10,49,126463
+Virtualization,Financial Services,0,50,10920
+Time to market,Financial Services,0,51,12024
+Tensions and international conflicts,Financial Services,8,52,101216
+Sustainability,Financial Services,5,53,69536
+Sector convergence,Financial Services,2,54,35834
+Disruptive business models,Financial Services,6,55,80625
+Demographic changes,Financial Services,3,56,39884
+Decentralization,Financial Services,4,57,55579
+Data explosion,Financial Services,2,58,37039
+Customer Demand,Financial Services,3,59,50625
+Automation,Financial Services,3,60,50066
+Vulnerability,Healthcare,9,61,50808
+Virtualization,Healthcare,0,62,9468
+Time to market,Healthcare,1,63,13229
+Tensions and international conflicts,Healthcare,7,64,44172
+Sustainability,Healthcare,9,65,53827
+Sector convergence,Healthcare,4,66,26231
+Disruptive business models,Healthcare,8,67,49265
+Demographic changes,Healthcare,10,68,56728
+Decentralization,Healthcare,3,69,23398
+Data explosion,Healthcare,4,70,28833
+Customer Demand,Healthcare,8,71,47404
+Automation,Healthcare,6,72,36042
+Vulnerability,Industrial Manufacturing,4,73,3987
+Virtualization,Industrial Manufacturing,0,74,1486
+Time to market,Industrial Manufacturing,1,75,1940
+Tensions and international conflicts,Industrial Manufacturing,6,76,4987
+Sustainability,Industrial Manufacturing,10,77,7223
+Sector convergence,Industrial Manufacturing,2,78,2516
+Disruptive business models,Industrial Manufacturing,7,79,5429
+Demographic changes,Industrial Manufacturing,1,80,1802
+Decentralization,Industrial Manufacturing,1,81,2178
+Data explosion,Industrial Manufacturing,1,82,2330
+Customer Demand,Industrial Manufacturing,10,83,7366
+Automation,Industrial Manufacturing,8,84,6191
+Vulnerability,Lifescience,7,85,20302
+Virtualization,Lifescience,0,86,4760
+Time to market,Lifescience,3,87,10677
+Tensions and international conflicts,Lifescience,8,88,22730
+Sustainability,Lifescience,8,89,24565
+Sector convergence,Lifescience,5,90,16226
+Disruptive business models,Lifescience,10,91,28226
+Demographic changes,Lifescience,6,92,18126
+Decentralization,Lifescience,3,93,10710
+Data explosion,Lifescience,6,94,18103
+Customer Demand,Lifescience,9,95,26098
+Automation,Lifescience,8,96,22850
+Vulnerability,Retail,5,97,33916
+Virtualization,Retail,0,98,10976
+Time to market,Retail,0,99,10229
+Tensions and international conflicts,Retail,6,100,38018
+Sustainability,Retail,6,101,37779
+Sector convergence,Retail,2,102,20716
+Disruptive business models,Retail,8,103,50219
+Demographic changes,Retail,1,104,15980
+Decentralization,Retail,2,105,21392
+Data explosion,Retail,3,106,24355
+Customer Demand,Retail,10,107,60183
+Automation,Retail,5,108,33504
+Vulnerability,Technology,3,109,15015
+Virtualization,Technology,2,110,14344
+Time to market,Technology,0,111,6760
+Tensions and international conflicts,Technology,2,112,13447
+Sustainability,Technology,2,113,13894
+Sector convergence,Technology,1,114,10155
+Disruptive business models,Technology,10,115,39022
+Demographic changes,Technology,0,116,7260
+Decentralization,Technology,3,117,16812
+Data explosion,Technology,5,118,22384
+Customer Demand,Technology,5,119,23420
+Automation,Technology,9,120,35891
+Vulnerability,Telecommunications and media,10,121,273705
+Virtualization,Telecommunications and media,0,122,32602
+Time to market,Telecommunications and media,0,123,38409
+Tensions and international conflicts,Telecommunications and media,7,124,208148
+Sustainability,Telecommunications and media,6,125,168962
+Sector convergence,Telecommunications and media,1,126,63233
+Disruptive business models,Telecommunications and media,6,127,165231
+Demographic changes,Telecommunications and media,4,128,140473
+Decentralization,Telecommunications and media,2,129,88398
+Data explosion,Telecommunications and media,2,130,76878
+Customer Demand,Telecommunications and media,2,131,91905
+Automation,Telecommunications and media,3,132,101427
+Vulnerability,Transport and logistics,8,133,27779
+Virtualization,Transport and logistics,0,134,7527
+Time to market,Transport and logistics,0,135,7012
+Tensions and international conflicts,Transport and logistics,8,136,28135
+Sustainability,Transport and logistics,9,137,31890
+Sector convergence,Transport and logistics,2,138,13363
+Disruptive business models,Transport and logistics,10,139,33383
+Demographic changes,Transport and logistics,3,140,13905
+Decentralization,Transport and logistics,3,141,15221
+Data explosion,Transport and logistics,4,142,16367
+Customer Demand,Transport and logistics,7,143,26711
+Automation,Transport and logistics,7,144,25366
