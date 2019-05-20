@@ -1,0 +1,12 @@
+name,parent,value,myid
+Origin,,,
+Big Data,Origin,33.71,1
+Cloud Data,Origin,25.05,2
+Data Diagnostics,Origin,19.01,3
+Predictive Analytics,Origin,5.51,4
+Prescriptive Analytics,Origin,4.99,5
+Data Mining,Origin,4.24,6
+Trend Analytics,Origin,3.94,7
+Data Sourcing,Origin,2.02,8
+Data Mashup,Origin,0.84,9
+Decision Support Systems,Origin,0.69,10
